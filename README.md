@@ -24,3 +24,5 @@ Criação do Diagrama ER: Utilizei a ferramenta diagrams.net para criar o diagra
 Entrega: O diagrama ER está pronto e reflete corretamente as necessidades do sistema, garantindo a integridade dos dados e a possibilidade de consultas eficientes.
 
 Com essa modelagem, o sistema de gerenciamento de biblioteca será capaz de registrar livros, autores, categorias, membros e empréstimos de forma organizada e eficiente.
+
+![Imagem do Diagrama](atividadeBanco.png)
